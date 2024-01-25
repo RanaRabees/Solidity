@@ -1,2 +1,2 @@
-# Blockchain-Solidity
+# Solidity
 Blockchain Solidity
